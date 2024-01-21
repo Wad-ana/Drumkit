@@ -1,0 +1,9 @@
+I am making a drumkit web app with different sound effects. I need HTML, CSS, and javascript for the drumkit. 
+Keep the following things in mind when generating the code:
+1.Make a heading called "drumkit".
+4. Make a button in the center of the page, and name it "punch".
+5. Make the button such that when clicked, it produces the sound in this file: sounds\punch-140236.mp3
+6. Make the theme of the page fun and festive, like a circus.
+7. Use an audio element in the HTML to pre-lod the audio file.
+
+Make sure to add a comment to each code so that a non-coder can understand each code's function. Do not make the code too complicated.

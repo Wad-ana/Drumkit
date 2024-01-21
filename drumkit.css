@@ -1,0 +1,35 @@
+/* Applies to the entire body of the webpage, setting the font and aligning everything to the center */
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #ffcc00; /* Festive yellow background for a circus theme */
+  }
+  
+  /* Styles the main heading */
+  h1 {
+    color: #e63900; /* Fun, festive red color */
+    margin-top: 50px; /* Adds space above the heading */
+    font-size: 80px
+    
+  }
+  
+  /* Styles the button */
+  .drum-button {
+    background-color: #4CAF50; /* A vibrant green color */
+    border: none; /* Removes the default border */
+    color: white; /* Text color */
+    padding: 50px; /* Padding around the text to make the button bigger */
+    text-align: center; /* Ensures the text is centered */
+    text-decoration: none; /* Removes any underline from the text */
+    display: inline-block; /* Allows margin to be applied properly */
+    font-size: 50px; /* Larger text for the button */
+    margin: 40px 2px; /* Adds space around the button */
+    cursor: pointer; /* Changes the mouse cursor to a pointer when hovered */
+    border-radius: 50%; /* Rounded corners for the button */
+  }
+  
+  /* Adds a hover effect to the button for interactivity */
+  .drum-button:hover {
+    background-color: #45a049; /* A slightly darker green when the button is hovered over */
+  }
+  
